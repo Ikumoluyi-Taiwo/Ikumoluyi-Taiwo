@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Ikumoluyi Paul Taiwo. 
-## I am a Data Analyst with a background in Business Management. I bring a diverse skill set and a passion for leveraging data to drive strategic decision-making and optimize business strategies. 
+I am a Data Analyst with a background in Business Management. I bring a diverse skill set and a passion for leveraging data to drive strategic decision-making and optimize business strategies. 
 <!--
 **Ikumoluyi-Taiwo/Ikumoluyi-Taiwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
